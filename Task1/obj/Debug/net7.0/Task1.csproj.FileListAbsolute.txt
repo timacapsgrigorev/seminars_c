@@ -1,0 +1,15 @@
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/bin/Debug/net7.0/Task1
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/bin/Debug/net7.0/Task1.dll
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.dll
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/newperson/Documents/Учеба/c#/semc_1/Task1/obj/Debug/net7.0/ref/Task1.dll
